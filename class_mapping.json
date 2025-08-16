@@ -1,0 +1,22 @@
+{
+  "class_names": [
+    "Broken Signage",
+    "Graffiti",
+    "Litter",
+    "Faded Signage",
+    "Potholes",
+    "Garbage",
+    "Construction Road",
+    "Poor Street Lighting",
+    "Broken Infrastructure",
+    "Sand on Road",
+    "Traffic Congestion",
+    "Unkept Facade",
+    "Road Damage",
+    "Poor Drainage",
+    "Clutter Sideiwalk",
+    "Bike Lane Issues"
+  ],
+  "num_classes": 16,
+  "description": "Urban issue classification mapping"
+}
