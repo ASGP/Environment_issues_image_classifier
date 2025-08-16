@@ -32,6 +32,11 @@ A lightweight and interactive GUI was developed to make the system accessible:
 - Designed for **non-technical users** as well as researchers.  
 
 ### Screenshots  
+<img width="1529" height="683" alt="env issues gui" src="https://github.com/user-attachments/assets/48106b06-7dd2-42d2-ad9b-d140deab2982" />
+
+<img width="1529" height="683" alt="env issues gui" src="https://github.com/user-attachments/assets/c7cc55a8-e2ef-416f-83cd-6ec832053397" />
+
+<img width="1510" height="882" alt="park" src="https://github.com/user-attachments/assets/43766928-a199-442e-9f26-6795a4ae5cc4" />
 
 
 
@@ -43,3 +48,4 @@ A lightweight and interactive GUI was developed to make the system accessible:
 Install the required dependencies:  
 ```bash
 pip install numpy tensorflow opencv-python ipywidgets matplotlib pillow
+
