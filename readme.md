@@ -1,4 +1,4 @@
-# Environmental Issues Classification with Privacy Anonymization  
+# Urban Issues Classification with Privacy Anonymization  
 
 This project presents an end-to-end pipeline for **environmental issue detection** using deep learning. It leverages a large-scale dataset of public images and ensures **privacy preservation** through automated anonymization of identifiable elements such as human faces and vehicle number plates.  
 
@@ -48,4 +48,5 @@ A lightweight and interactive GUI was developed to make the system accessible:
 Install the required dependencies:  
 ```bash
 pip install numpy tensorflow opencv-python ipywidgets matplotlib pillow
+
 
